@@ -1,0 +1,30 @@
+{
+  "name": "remix-siwe-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobLMartin/remix-siwe-auth.git"
+  },
+  "keywords": [
+    "remix",
+    "siwe",
+    "auth"
+  ],
+  "author": "Rob Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobLMartin/remix-siwe-auth/issues"
+  },
+  "homepage": "https://github.com/RobLMartin/remix-siwe-auth#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
